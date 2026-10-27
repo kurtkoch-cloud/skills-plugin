@@ -1,0 +1,15 @@
+{
+  "name": "sa",
+  "description": "Solution Architect (SA) toolkit with review of architectural decision (AD) and solution architecture documentation (SAD)",
+  "version": "1.0.0",
+  "author": {
+    "name": "Kurt Koch Nielsen",
+    "email": "kurt@kochnielsen.dk"
+  },
+  "license": "MIT",
+  "keywords": ["solution", "ad", "sad", "review"],
+  "skills": [
+    "./skills/ad-review/",
+    "./skills/sad-review/"
+  ]
+}
